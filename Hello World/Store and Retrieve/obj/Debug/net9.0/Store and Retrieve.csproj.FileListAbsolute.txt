@@ -1,0 +1,14 @@
+/Users/joaopaulozangrande/Documents/c#/Hello World/Store and Retrieve/bin/Debug/net9.0/Store and Retrieve
+/Users/joaopaulozangrande/Documents/c#/Hello World/Store and Retrieve/bin/Debug/net9.0/Store and Retrieve.deps.json
+/Users/joaopaulozangrande/Documents/c#/Hello World/Store and Retrieve/bin/Debug/net9.0/Store and Retrieve.runtimeconfig.json
+/Users/joaopaulozangrande/Documents/c#/Hello World/Store and Retrieve/bin/Debug/net9.0/Store and Retrieve.dll
+/Users/joaopaulozangrande/Documents/c#/Hello World/Store and Retrieve/bin/Debug/net9.0/Store and Retrieve.pdb
+/Users/joaopaulozangrande/Documents/c#/Hello World/Store and Retrieve/obj/Debug/net9.0/Store and Retrieve.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaopaulozangrande/Documents/c#/Hello World/Store and Retrieve/obj/Debug/net9.0/Store and Retrieve.AssemblyInfoInputs.cache
+/Users/joaopaulozangrande/Documents/c#/Hello World/Store and Retrieve/obj/Debug/net9.0/Store and Retrieve.AssemblyInfo.cs
+/Users/joaopaulozangrande/Documents/c#/Hello World/Store and Retrieve/obj/Debug/net9.0/Store and Retrieve.csproj.CoreCompileInputs.cache
+/Users/joaopaulozangrande/Documents/c#/Hello World/Store and Retrieve/obj/Debug/net9.0/Store and Retrieve.dll
+/Users/joaopaulozangrande/Documents/c#/Hello World/Store and Retrieve/obj/Debug/net9.0/refint/Store and Retrieve.dll
+/Users/joaopaulozangrande/Documents/c#/Hello World/Store and Retrieve/obj/Debug/net9.0/Store and Retrieve.pdb
+/Users/joaopaulozangrande/Documents/c#/Hello World/Store and Retrieve/obj/Debug/net9.0/Store and Retrieve.genruntimeconfig.cache
+/Users/joaopaulozangrande/Documents/c#/Hello World/Store and Retrieve/obj/Debug/net9.0/ref/Store and Retrieve.dll

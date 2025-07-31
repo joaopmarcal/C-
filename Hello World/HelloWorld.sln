@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{7C69994B-B3C1-4E06-B74F-3D810865F927}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store and Retrieve", "Store and Retrieve\Store and Retrieve.csproj", "{AA3B1DC6-1FC1-4753-A11A-ADD12DC14147}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{7C69994B-B3C1-4E06-B74F-3D810865F927}.Release|x64.Build.0 = Release|Any CPU
 		{7C69994B-B3C1-4E06-B74F-3D810865F927}.Release|x86.ActiveCfg = Release|Any CPU
 		{7C69994B-B3C1-4E06-B74F-3D810865F927}.Release|x86.Build.0 = Release|Any CPU
+		{AA3B1DC6-1FC1-4753-A11A-ADD12DC14147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3B1DC6-1FC1-4753-A11A-ADD12DC14147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3B1DC6-1FC1-4753-A11A-ADD12DC14147}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AA3B1DC6-1FC1-4753-A11A-ADD12DC14147}.Debug|x64.Build.0 = Debug|Any CPU
+		{AA3B1DC6-1FC1-4753-A11A-ADD12DC14147}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AA3B1DC6-1FC1-4753-A11A-ADD12DC14147}.Debug|x86.Build.0 = Debug|Any CPU
+		{AA3B1DC6-1FC1-4753-A11A-ADD12DC14147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3B1DC6-1FC1-4753-A11A-ADD12DC14147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA3B1DC6-1FC1-4753-A11A-ADD12DC14147}.Release|x64.ActiveCfg = Release|Any CPU
+		{AA3B1DC6-1FC1-4753-A11A-ADD12DC14147}.Release|x64.Build.0 = Release|Any CPU
+		{AA3B1DC6-1FC1-4753-A11A-ADD12DC14147}.Release|x86.ActiveCfg = Release|Any CPU
+		{AA3B1DC6-1FC1-4753-A11A-ADD12DC14147}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
