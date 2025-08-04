@@ -1,0 +1,14 @@
+/Users/joaopaulozangrande/Documents/c#/Hello World/StringFormatting/bin/Debug/net9.0/StringFormatting
+/Users/joaopaulozangrande/Documents/c#/Hello World/StringFormatting/bin/Debug/net9.0/StringFormatting.deps.json
+/Users/joaopaulozangrande/Documents/c#/Hello World/StringFormatting/bin/Debug/net9.0/StringFormatting.runtimeconfig.json
+/Users/joaopaulozangrande/Documents/c#/Hello World/StringFormatting/bin/Debug/net9.0/StringFormatting.dll
+/Users/joaopaulozangrande/Documents/c#/Hello World/StringFormatting/bin/Debug/net9.0/StringFormatting.pdb
+/Users/joaopaulozangrande/Documents/c#/Hello World/StringFormatting/obj/Debug/net9.0/StringFormatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaopaulozangrande/Documents/c#/Hello World/StringFormatting/obj/Debug/net9.0/StringFormatting.AssemblyInfoInputs.cache
+/Users/joaopaulozangrande/Documents/c#/Hello World/StringFormatting/obj/Debug/net9.0/StringFormatting.AssemblyInfo.cs
+/Users/joaopaulozangrande/Documents/c#/Hello World/StringFormatting/obj/Debug/net9.0/StringFormatting.csproj.CoreCompileInputs.cache
+/Users/joaopaulozangrande/Documents/c#/Hello World/StringFormatting/obj/Debug/net9.0/StringFormatting.dll
+/Users/joaopaulozangrande/Documents/c#/Hello World/StringFormatting/obj/Debug/net9.0/refint/StringFormatting.dll
+/Users/joaopaulozangrande/Documents/c#/Hello World/StringFormatting/obj/Debug/net9.0/StringFormatting.pdb
+/Users/joaopaulozangrande/Documents/c#/Hello World/StringFormatting/obj/Debug/net9.0/StringFormatting.genruntimeconfig.cache
+/Users/joaopaulozangrande/Documents/c#/Hello World/StringFormatting/obj/Debug/net9.0/ref/StringFormatting.dll
