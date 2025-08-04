@@ -1,0 +1,14 @@
+/Users/joaopaulozangrande/Documents/c#/Hello World/SharpBasicOperations/bin/Debug/net9.0/SharpBasicOperations
+/Users/joaopaulozangrande/Documents/c#/Hello World/SharpBasicOperations/bin/Debug/net9.0/SharpBasicOperations.deps.json
+/Users/joaopaulozangrande/Documents/c#/Hello World/SharpBasicOperations/bin/Debug/net9.0/SharpBasicOperations.runtimeconfig.json
+/Users/joaopaulozangrande/Documents/c#/Hello World/SharpBasicOperations/bin/Debug/net9.0/SharpBasicOperations.dll
+/Users/joaopaulozangrande/Documents/c#/Hello World/SharpBasicOperations/bin/Debug/net9.0/SharpBasicOperations.pdb
+/Users/joaopaulozangrande/Documents/c#/Hello World/SharpBasicOperations/obj/Debug/net9.0/SharpBasicOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaopaulozangrande/Documents/c#/Hello World/SharpBasicOperations/obj/Debug/net9.0/SharpBasicOperations.AssemblyInfoInputs.cache
+/Users/joaopaulozangrande/Documents/c#/Hello World/SharpBasicOperations/obj/Debug/net9.0/SharpBasicOperations.AssemblyInfo.cs
+/Users/joaopaulozangrande/Documents/c#/Hello World/SharpBasicOperations/obj/Debug/net9.0/SharpBasicOperations.csproj.CoreCompileInputs.cache
+/Users/joaopaulozangrande/Documents/c#/Hello World/SharpBasicOperations/obj/Debug/net9.0/SharpBasicOperations.dll
+/Users/joaopaulozangrande/Documents/c#/Hello World/SharpBasicOperations/obj/Debug/net9.0/refint/SharpBasicOperations.dll
+/Users/joaopaulozangrande/Documents/c#/Hello World/SharpBasicOperations/obj/Debug/net9.0/SharpBasicOperations.pdb
+/Users/joaopaulozangrande/Documents/c#/Hello World/SharpBasicOperations/obj/Debug/net9.0/SharpBasicOperations.genruntimeconfig.cache
+/Users/joaopaulozangrande/Documents/c#/Hello World/SharpBasicOperations/obj/Debug/net9.0/ref/SharpBasicOperations.dll

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store and Retrieve", "Store
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringFormatting", "StringFormatting\StringFormatting.csproj", "{2C00D593-322D-469B-B5B3-0C1AE13834C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpBasicOperations", "SharpBasicOperations\SharpBasicOperations.csproj", "{4120C4CB-C51D-4BB3-A3FE-906BCC43259F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{2C00D593-322D-469B-B5B3-0C1AE13834C5}.Release|x64.Build.0 = Release|Any CPU
 		{2C00D593-322D-469B-B5B3-0C1AE13834C5}.Release|x86.ActiveCfg = Release|Any CPU
 		{2C00D593-322D-469B-B5B3-0C1AE13834C5}.Release|x86.Build.0 = Release|Any CPU
+		{4120C4CB-C51D-4BB3-A3FE-906BCC43259F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4120C4CB-C51D-4BB3-A3FE-906BCC43259F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4120C4CB-C51D-4BB3-A3FE-906BCC43259F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4120C4CB-C51D-4BB3-A3FE-906BCC43259F}.Debug|x64.Build.0 = Debug|Any CPU
+		{4120C4CB-C51D-4BB3-A3FE-906BCC43259F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4120C4CB-C51D-4BB3-A3FE-906BCC43259F}.Debug|x86.Build.0 = Debug|Any CPU
+		{4120C4CB-C51D-4BB3-A3FE-906BCC43259F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4120C4CB-C51D-4BB3-A3FE-906BCC43259F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4120C4CB-C51D-4BB3-A3FE-906BCC43259F}.Release|x64.ActiveCfg = Release|Any CPU
+		{4120C4CB-C51D-4BB3-A3FE-906BCC43259F}.Release|x64.Build.0 = Release|Any CPU
+		{4120C4CB-C51D-4BB3-A3FE-906BCC43259F}.Release|x86.ActiveCfg = Release|Any CPU
+		{4120C4CB-C51D-4BB3-A3FE-906BCC43259F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
