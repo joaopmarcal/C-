@@ -1,0 +1,14 @@
+/Users/joaopaulozangrande/Documents/c#/Hello World/StudentGrades/bin/Debug/net9.0/StudentGrades
+/Users/joaopaulozangrande/Documents/c#/Hello World/StudentGrades/bin/Debug/net9.0/StudentGrades.deps.json
+/Users/joaopaulozangrande/Documents/c#/Hello World/StudentGrades/bin/Debug/net9.0/StudentGrades.runtimeconfig.json
+/Users/joaopaulozangrande/Documents/c#/Hello World/StudentGrades/bin/Debug/net9.0/StudentGrades.dll
+/Users/joaopaulozangrande/Documents/c#/Hello World/StudentGrades/bin/Debug/net9.0/StudentGrades.pdb
+/Users/joaopaulozangrande/Documents/c#/Hello World/StudentGrades/obj/Debug/net9.0/StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaopaulozangrande/Documents/c#/Hello World/StudentGrades/obj/Debug/net9.0/StudentGrades.AssemblyInfoInputs.cache
+/Users/joaopaulozangrande/Documents/c#/Hello World/StudentGrades/obj/Debug/net9.0/StudentGrades.AssemblyInfo.cs
+/Users/joaopaulozangrande/Documents/c#/Hello World/StudentGrades/obj/Debug/net9.0/StudentGrades.csproj.CoreCompileInputs.cache
+/Users/joaopaulozangrande/Documents/c#/Hello World/StudentGrades/obj/Debug/net9.0/StudentGrades.dll
+/Users/joaopaulozangrande/Documents/c#/Hello World/StudentGrades/obj/Debug/net9.0/refint/StudentGrades.dll
+/Users/joaopaulozangrande/Documents/c#/Hello World/StudentGrades/obj/Debug/net9.0/StudentGrades.pdb
+/Users/joaopaulozangrande/Documents/c#/Hello World/StudentGrades/obj/Debug/net9.0/StudentGrades.genruntimeconfig.cache
+/Users/joaopaulozangrande/Documents/c#/Hello World/StudentGrades/obj/Debug/net9.0/ref/StudentGrades.dll
