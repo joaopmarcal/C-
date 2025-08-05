@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SharpBasicOperations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe280b1bf1e02d5e042604d7194c4a0a4a58452d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57ac947afe6d512a967f1546ab9693422b682698")]
 [assembly: System.Reflection.AssemblyProductAttribute("SharpBasicOperations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SharpBasicOperations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
