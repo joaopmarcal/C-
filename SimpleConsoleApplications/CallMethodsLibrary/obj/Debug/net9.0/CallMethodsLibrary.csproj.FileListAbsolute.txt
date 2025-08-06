@@ -1,0 +1,14 @@
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/CallMethodsLibrary/bin/Debug/net9.0/CallMethodsLibrary
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/CallMethodsLibrary/bin/Debug/net9.0/CallMethodsLibrary.deps.json
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/CallMethodsLibrary/bin/Debug/net9.0/CallMethodsLibrary.runtimeconfig.json
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/CallMethodsLibrary/bin/Debug/net9.0/CallMethodsLibrary.dll
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/CallMethodsLibrary/bin/Debug/net9.0/CallMethodsLibrary.pdb
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/CallMethodsLibrary/obj/Debug/net9.0/CallMethodsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/CallMethodsLibrary/obj/Debug/net9.0/CallMethodsLibrary.AssemblyInfoInputs.cache
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/CallMethodsLibrary/obj/Debug/net9.0/CallMethodsLibrary.AssemblyInfo.cs
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/CallMethodsLibrary/obj/Debug/net9.0/CallMethodsLibrary.csproj.CoreCompileInputs.cache
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/CallMethodsLibrary/obj/Debug/net9.0/CallMethodsLibrary.dll
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/CallMethodsLibrary/obj/Debug/net9.0/refint/CallMethodsLibrary.dll
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/CallMethodsLibrary/obj/Debug/net9.0/CallMethodsLibrary.pdb
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/CallMethodsLibrary/obj/Debug/net9.0/CallMethodsLibrary.genruntimeconfig.cache
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/CallMethodsLibrary/obj/Debug/net9.0/ref/CallMethodsLibrary.dll
