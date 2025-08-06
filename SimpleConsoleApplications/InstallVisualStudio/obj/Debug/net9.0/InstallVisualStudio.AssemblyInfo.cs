@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InstallVisualStudio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f08f3e95a1d35dbcc18db39d54fa26bcaa75c572")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c91fb98517baee9ce2686fd66c96670261116f89")]
 [assembly: System.Reflection.AssemblyProductAttribute("InstallVisualStudio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InstallVisualStudio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

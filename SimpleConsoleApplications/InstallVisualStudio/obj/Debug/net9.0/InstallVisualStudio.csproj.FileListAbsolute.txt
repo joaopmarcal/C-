@@ -1,0 +1,14 @@
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/InstallVisualStudio/bin/Debug/net9.0/InstallVisualStudio
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/InstallVisualStudio/bin/Debug/net9.0/InstallVisualStudio.deps.json
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/InstallVisualStudio/bin/Debug/net9.0/InstallVisualStudio.runtimeconfig.json
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/InstallVisualStudio/bin/Debug/net9.0/InstallVisualStudio.dll
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/InstallVisualStudio/bin/Debug/net9.0/InstallVisualStudio.pdb
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/InstallVisualStudio/obj/Debug/net9.0/InstallVisualStudio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/InstallVisualStudio/obj/Debug/net9.0/InstallVisualStudio.AssemblyInfoInputs.cache
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/InstallVisualStudio/obj/Debug/net9.0/InstallVisualStudio.AssemblyInfo.cs
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/InstallVisualStudio/obj/Debug/net9.0/InstallVisualStudio.csproj.CoreCompileInputs.cache
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/InstallVisualStudio/obj/Debug/net9.0/InstallVisualStudio.dll
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/InstallVisualStudio/obj/Debug/net9.0/refint/InstallVisualStudio.dll
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/InstallVisualStudio/obj/Debug/net9.0/InstallVisualStudio.pdb
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/InstallVisualStudio/obj/Debug/net9.0/InstallVisualStudio.genruntimeconfig.cache
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/InstallVisualStudio/obj/Debug/net9.0/ref/InstallVisualStudio.dll
