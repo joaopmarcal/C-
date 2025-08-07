@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstallVisualStudio", "..\S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallMethodsLibrary", "..\SimpleConsoleApplications\CallMethodsLibrary\CallMethodsLibrary.csproj", "{BEF3ABE8-3F24-4E2F-BA80-943397638F22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfStatement", "..\SimpleConsoleApplications\IfStatement\IfStatement.csproj", "{DBC20AEB-E2B8-404E-9A27-B651C711C6B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,18 @@ Global
 		{BEF3ABE8-3F24-4E2F-BA80-943397638F22}.Release|x64.Build.0 = Release|Any CPU
 		{BEF3ABE8-3F24-4E2F-BA80-943397638F22}.Release|x86.ActiveCfg = Release|Any CPU
 		{BEF3ABE8-3F24-4E2F-BA80-943397638F22}.Release|x86.Build.0 = Release|Any CPU
+		{DBC20AEB-E2B8-404E-9A27-B651C711C6B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC20AEB-E2B8-404E-9A27-B651C711C6B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC20AEB-E2B8-404E-9A27-B651C711C6B5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DBC20AEB-E2B8-404E-9A27-B651C711C6B5}.Debug|x64.Build.0 = Debug|Any CPU
+		{DBC20AEB-E2B8-404E-9A27-B651C711C6B5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DBC20AEB-E2B8-404E-9A27-B651C711C6B5}.Debug|x86.Build.0 = Debug|Any CPU
+		{DBC20AEB-E2B8-404E-9A27-B651C711C6B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC20AEB-E2B8-404E-9A27-B651C711C6B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBC20AEB-E2B8-404E-9A27-B651C711C6B5}.Release|x64.ActiveCfg = Release|Any CPU
+		{DBC20AEB-E2B8-404E-9A27-B651C711C6B5}.Release|x64.Build.0 = Release|Any CPU
+		{DBC20AEB-E2B8-404E-9A27-B651C711C6B5}.Release|x86.ActiveCfg = Release|Any CPU
+		{DBC20AEB-E2B8-404E-9A27-B651C711C6B5}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
