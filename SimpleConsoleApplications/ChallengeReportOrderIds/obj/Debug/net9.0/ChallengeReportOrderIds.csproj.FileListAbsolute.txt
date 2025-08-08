@@ -1,0 +1,14 @@
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ChallengeReportOrderIds/bin/Debug/net9.0/ChallengeReportOrderIds
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ChallengeReportOrderIds/bin/Debug/net9.0/ChallengeReportOrderIds.deps.json
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ChallengeReportOrderIds/bin/Debug/net9.0/ChallengeReportOrderIds.runtimeconfig.json
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ChallengeReportOrderIds/bin/Debug/net9.0/ChallengeReportOrderIds.dll
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ChallengeReportOrderIds/bin/Debug/net9.0/ChallengeReportOrderIds.pdb
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ChallengeReportOrderIds/obj/Debug/net9.0/ChallengeReportOrderIds.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ChallengeReportOrderIds/obj/Debug/net9.0/ChallengeReportOrderIds.AssemblyInfoInputs.cache
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ChallengeReportOrderIds/obj/Debug/net9.0/ChallengeReportOrderIds.AssemblyInfo.cs
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ChallengeReportOrderIds/obj/Debug/net9.0/ChallengeReportOrderIds.csproj.CoreCompileInputs.cache
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ChallengeReportOrderIds/obj/Debug/net9.0/ChallengeReportOrderIds.dll
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ChallengeReportOrderIds/obj/Debug/net9.0/refint/ChallengeReportOrderIds.dll
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ChallengeReportOrderIds/obj/Debug/net9.0/ChallengeReportOrderIds.pdb
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ChallengeReportOrderIds/obj/Debug/net9.0/ChallengeReportOrderIds.genruntimeconfig.cache
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ChallengeReportOrderIds/obj/Debug/net9.0/ref/ChallengeReportOrderIds.dll

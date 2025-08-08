@@ -1,0 +1,14 @@
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ArrayStatement/bin/Debug/net9.0/ArrayStatement
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ArrayStatement/bin/Debug/net9.0/ArrayStatement.deps.json
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ArrayStatement/bin/Debug/net9.0/ArrayStatement.runtimeconfig.json
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ArrayStatement/bin/Debug/net9.0/ArrayStatement.dll
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ArrayStatement/bin/Debug/net9.0/ArrayStatement.pdb
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ArrayStatement/obj/Debug/net9.0/ArrayStatement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ArrayStatement/obj/Debug/net9.0/ArrayStatement.AssemblyInfoInputs.cache
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ArrayStatement/obj/Debug/net9.0/ArrayStatement.AssemblyInfo.cs
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ArrayStatement/obj/Debug/net9.0/ArrayStatement.csproj.CoreCompileInputs.cache
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ArrayStatement/obj/Debug/net9.0/ArrayStatement.dll
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ArrayStatement/obj/Debug/net9.0/refint/ArrayStatement.dll
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ArrayStatement/obj/Debug/net9.0/ArrayStatement.pdb
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ArrayStatement/obj/Debug/net9.0/ArrayStatement.genruntimeconfig.cache
+/Users/joaopaulozangrande/Documents/c#/SimpleConsoleApplications/ArrayStatement/obj/Debug/net9.0/ref/ArrayStatement.dll
