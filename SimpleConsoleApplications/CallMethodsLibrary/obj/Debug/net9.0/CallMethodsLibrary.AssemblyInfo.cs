@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CallMethodsLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d1ec9fd0c2292448060e96c17b9eee9554eb392")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3636b733d0a2f1a70a62e71a1b3deaa44594de11")]
 [assembly: System.Reflection.AssemblyProductAttribute("CallMethodsLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CallMethodsLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
